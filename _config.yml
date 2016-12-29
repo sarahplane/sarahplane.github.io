@@ -1,0 +1,13 @@
+# Site settings
+title: Sarah Plane
+email: sarahmplane@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+twitter_username: sarahmplane
+github_username: sarahplane
+linkedin_username: sarahplane
+
+# Build settings
+markdown: kramdown
